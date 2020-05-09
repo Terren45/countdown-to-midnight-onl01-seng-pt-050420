@@ -1,4 +1,5 @@
-#write your code here
+write your code here
 
-def countdown
+def countdown(new_years_countdown) 
+  while >
 end
