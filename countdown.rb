@@ -1,6 +1,7 @@
 #write your code here
 
 def countdown(number)
-  puts "#{} 
+  while number >
+  puts "#{}  
 
 end
